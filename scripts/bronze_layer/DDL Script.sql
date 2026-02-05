@@ -43,8 +43,8 @@ NEXT STEPS:
   2. Transform data into Silver layer for cleansing and validation
   3. Create Gold layer dimensional models for analytics
 
-AUTHOR: [Your Name]
-CREATED: [Current Date]
+AUTHOR: [Ahmed Shittu]
+CREATED: [02/02/2026]
 VERSION: 1.0
 ================================================================================
 */
