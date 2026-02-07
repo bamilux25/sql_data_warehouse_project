@@ -1,7 +1,7 @@
 # Data Warehouse Catalog - Bronze, Silver & Gold Layers
 
 **Project:** DatawareHouse ETL Pipeline  
-**Author:** [Your Name]  
+**Author:** Ahmed Shittu
 **Version:** 1.0  
 **Last Updated:** [Date]
 
