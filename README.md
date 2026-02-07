@@ -96,7 +96,6 @@ The warehouse implements a **Medallion Architecture** (Bronze, Silver, Gold) fol
 
 ## 🛠️ Technologies Used
 - **SQL** - Data querying and transformation
-- **Python** - ETL scripting and automation
 
 ---
 
